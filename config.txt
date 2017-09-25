@@ -1,0 +1,3 @@
+name = Boris	
+size = 100, but i don't know what is this size
+email = BVoychev@gmail.com
