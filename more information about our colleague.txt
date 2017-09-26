@@ -1,0 +1,4 @@
+1 What is their name? Boris Voychev 
+2 Where are they from? Stara Zagora 
+3 What hobbies/pastimes do they enjoy? Playing all kind of sports such as basketball,tennis and running 
+4 Why did they pick SoftUni? I decided to try coding and learn something new.
